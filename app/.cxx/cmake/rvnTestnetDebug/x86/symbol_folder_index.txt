@@ -1,0 +1,1 @@
+F:\RVN\ravenwallet\ravenwallet-android\app\build\intermediates\cmake\rvnTestnetDebug\obj\x86

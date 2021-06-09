@@ -1,0 +1,1 @@
+F:\RVN\ravenwallet\ravenwallet-android\app\build\intermediates\cmake\rvnRelease\obj\armeabi-v7a

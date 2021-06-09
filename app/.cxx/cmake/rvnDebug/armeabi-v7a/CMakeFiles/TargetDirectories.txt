@@ -1,0 +1,3 @@
+F:/RVN/ravenwallet/ravenwallet-android/app/.cxx/cmake/rvnDebug/armeabi-v7a/CMakeFiles/core.dir
+F:/RVN/ravenwallet/ravenwallet-android/app/.cxx/cmake/rvnDebug/armeabi-v7a/CMakeFiles/edit_cache.dir
+F:/RVN/ravenwallet/ravenwallet-android/app/.cxx/cmake/rvnDebug/armeabi-v7a/CMakeFiles/rebuild_cache.dir

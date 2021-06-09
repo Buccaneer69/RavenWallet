@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\Pappa\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\.cxx\\cmake\\rvnTestnetDebug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\Pappa\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\.cxx\\cmake\\rvnTestnetDebug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "core-Debug-x86": {
+      "buildCommandComponents": [
+        "C:\\Users\\Pappa\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\.cxx\\cmake\\rvnTestnetDebug\\x86",
+        "core"
+      ],
+      "buildType": "debug",
+      "abi": "x86",
+      "artifactName": "core",
+      "output": "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\build\\intermediates\\cmake\\rvnTestnetDebug\\obj\\x86\\libcore.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

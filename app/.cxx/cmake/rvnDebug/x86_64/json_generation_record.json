@@ -1,0 +1,23 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 24 min SDK version: x86_64",
+    "file": "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\CMakeLists.txt",
+    "tag": "rvnDebug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\.cxx\\cmake\\rvnDebug\\x86_64\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\CMakeLists.txt",
+    "tag": "rvnDebug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "F:\\RVN\\ravenwallet\\ravenwallet-android\\app\\CMakeLists.txt",
+    "tag": "rvnDebug|x86_64",
+    "diagnosticCode": "UNKNOWN"
+  }
+]
